@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
-**Armorx00/Armorx00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Armorx00/** is a ✨ _special_ ✨ repository because its about ME 💫
 
-Here are some ideas to get you started:
+Here are some ideas about me:
 
 - 🔭 I’m currently working on javascript 
 - 🌱 I’m currently learning c £ c++
