@@ -65,10 +65,15 @@
       text-align:"left";
       font: size 20px;
       font-family: serif;
-
-
-      
-    }
+}
+.hide {
+  display: none;
+}
+    
+.myDIV:hover + .hide {
+  display: block;
+  color: red;
+}
   
   </style>
 </head>
@@ -83,8 +88,9 @@
     </u></h2>
 
   <h2>Age:<u>
-      <li>20 yrs</li>
+      <li class="mydiv">20 yrs</li>
     </u></h2>
+<h2 class="hide">Date of Birth:20/12/2004</h2>
   <h2>Address:<u>
       <li>392210,Bharuch-Gujarat(India)</li>
     </u></h2>
